@@ -1,0 +1,4 @@
+Good news: OpenAI will start sending out more invites to DALLE2
+Bad news: upon receiving the invite you will get 50 free credits (means you get 50 prompt generations) and afterwards you will be getting 15 free credits a month. 
+
+You can still buy 115 credits for $15, but to be honest I would prefer to pay a bit more for unlimited access.
